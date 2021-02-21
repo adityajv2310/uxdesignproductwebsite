@@ -18,11 +18,19 @@ Preview the prototype.
 
 ## DESIGN SCREENS:
 
+![output](./static/img/output1.png)
 
 ## WIREFRAME:
 
+![output](./static/img/output2.png)
+![output](./static/img/output3.png)
 
 ## PROTOTYPE:
 
+![output](./static/img/output4.png)
+![output](./static/img/output5.png)
+![output](./static/img/output6.png)
+![output](./static/img/output7.png)
 
 ## RESULT:
+Thus a Website is designed for the product company.
